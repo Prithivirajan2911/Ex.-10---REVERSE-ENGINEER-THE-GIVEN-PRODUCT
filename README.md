@@ -1,9 +1,9 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 10.05.24
 
 ## AIM: 
-### To reverse engineering the product and prototyping the same in 3D printer.
+To reverse engineering the product and prototyping the same in 3D printer.
 
 ## REQUIREMENTS:
 ### ●	CURA 4.0 Software
@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Prithivirajan2911/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147020085/0d65f018-0ca8-4e0f-9e4b-7dc67522d3ad)
 
 ### Output:
+![image](https://github.com/Prithivirajan2911/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147020085/e39d224e-addf-4fea-8fb6-6180ec026fe8)
 
 
-### Name:
-### Register Number:
+### Name: PRITHIVIRAJAN V 
+### Register Number: 212223100042
 
 ## RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+ Thus the given product is reverse engineered and prototyped using 3D Printer.
